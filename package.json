@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thelox1030/curso-html/issues"
   },
-  "homepage": "https://github.com/thelox1030/curso-html#readme"
+  "homepage": "https://github.com/thelox1030/curso-html#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
